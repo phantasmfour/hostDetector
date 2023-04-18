@@ -10,4 +10,4 @@ Has a few other features like:
 * Check if we already found these exact hosts
 * Send the results to Discord
 
-More info here: 
+More info here: https://phantasmfour.com/host-detector/
