@@ -1,0 +1,4 @@
+python-nmap==0.7.1
+getmac==0.9.3
+discord==1.7.3
+dnspython==2.3.0
