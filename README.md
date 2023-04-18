@@ -9,3 +9,5 @@ Has a few other features like:
 * Check if it is in a whitelist of no alert MACs
 * Check if we already found these exact hosts
 * Send the results to Discord
+
+More info here: 
